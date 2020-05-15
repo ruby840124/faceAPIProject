@@ -1,4 +1,4 @@
-## use - face-api.js
+## face detect project(use face-api.js)
 https://github.com/justadudewhohacks/face-api.js/
 
 ## demo

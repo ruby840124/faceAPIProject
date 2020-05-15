@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/faceAPIProject/static/css/main.b68dedff.chunk.css",
-    "main.js": "/faceAPIProject/static/js/main.9a323de7.chunk.js",
-    "main.js.map": "/faceAPIProject/static/js/main.9a323de7.chunk.js.map",
+    "main.js": "/faceAPIProject/static/js/main.b206786c.chunk.js",
+    "main.js.map": "/faceAPIProject/static/js/main.b206786c.chunk.js.map",
     "runtime-main.js": "/faceAPIProject/static/js/runtime-main.7511e5d1.js",
     "runtime-main.js.map": "/faceAPIProject/static/js/runtime-main.7511e5d1.js.map",
     "static/js/2.dd8126b0.chunk.js": "/faceAPIProject/static/js/2.dd8126b0.chunk.js",
     "static/js/2.dd8126b0.chunk.js.map": "/faceAPIProject/static/js/2.dd8126b0.chunk.js.map",
     "index.html": "/faceAPIProject/index.html",
-    "precache-manifest.7643f0b639104a452b2ba32a004a2dd9.js": "/faceAPIProject/precache-manifest.7643f0b639104a452b2ba32a004a2dd9.js",
+    "precache-manifest.97284aae7f0b79b70f4b075487a2a3bf.js": "/faceAPIProject/precache-manifest.97284aae7f0b79b70f4b075487a2a3bf.js",
     "service-worker.js": "/faceAPIProject/service-worker.js",
     "static/css/main.b68dedff.chunk.css.map": "/faceAPIProject/static/css/main.b68dedff.chunk.css.map",
     "static/js/2.dd8126b0.chunk.js.LICENSE.txt": "/faceAPIProject/static/js/2.dd8126b0.chunk.js.LICENSE.txt",
@@ -19,6 +19,6 @@
     "static/js/runtime-main.7511e5d1.js",
     "static/js/2.dd8126b0.chunk.js",
     "static/css/main.b68dedff.chunk.css",
-    "static/js/main.9a323de7.chunk.js"
+    "static/js/main.b206786c.chunk.js"
   ]
 }

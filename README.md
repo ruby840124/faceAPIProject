@@ -16,15 +16,15 @@ https://github.com/justadudewhohacks/face-api.js/
 
 ▶▶mobile首頁<br>
 上傳及偵測臉部<br>
-<img src="https://github.com/ruby840124/faceAPIProject/blob/master/image/1.JPG" width="60%" height="80%"> <br><br>
+<img src="https://github.com/ruby840124/faceAPIProject/blob/master/image/1.JPG" width="50%" height="50%"> <br><br>
 
 ▶▶mobile首頁<br>
 按下上傳圖片，並上傳照片<br>
-<img src="https://github.com/ruby840124/faceAPIProject/blob/master/image/2.JPG" width="60%" height="80%"> <br><br>
+<img src="https://github.com/ruby840124/faceAPIProject/blob/master/image/2.JPG" width="50%" height="50%"> <br><br>
 
 ▶▶mobile首頁<br>
 成功上傳，再按下偵測臉部，顯示成功偵測結果<br>
-<img src="https://github.com/ruby840124/faceAPIProject/blob/master/image/3.JPG" width="60%" height="80%"> <br><br>
+<img src="https://github.com/ruby840124/faceAPIProject/blob/master/image/3.JPG" width="50%" height="50%"> <br><br>
 
 
 ## demo

@@ -1,7 +1,7 @@
 ## face detect project
-use face-api.js implement:
-https://github.com/justadudewhohacks/face-api.js/
-無聊小專案 ok der
+use face-api.js implement:<br>
+https://github.com/justadudewhohacks/face-api.js/<br>
+無聊小專案 ok der<br>
 
 ▶▶PC首頁<br>
 上傳及偵測臉部<br>
